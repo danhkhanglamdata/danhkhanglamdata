@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danhkhanglamdata
 - 👀 I’m interested in working with Data
-- 🌱 I’m currently learning about SQL , Python , Powrer BI
+- 🌱 I’m currently learning about SQL , Python , Power BI
 - 💞️ Thanks for coming
   
 
