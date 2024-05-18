@@ -5,7 +5,8 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-<iframe src="https://giphy.com/embed/VIKa3CjZDCoymNcBY5" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sesamestreet-sesame-street-cookie-monster-VIKa3CjZDCoymNcBY5">via GIPHY</a></p>
+![MuaKissGIF](https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/3cd9cbca-df14-45f8-938f-e921a68fa18f)
+
 <!---
 danhkhanglamdata/danhkhanglamdata is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
