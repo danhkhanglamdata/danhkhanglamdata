@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![giphy](https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/b370c08e-c9b1-4e0c-8296-4b3bbecc90b0)" alt="Mô tả GIF">
+  <img src="https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/b370c08e-c9b1-4e0c-8296-4b3bbecc90b0" alt="Mô tả GIF">
 </div>
 
 - 👋 Hi, I’m @danhkhanglamdata
