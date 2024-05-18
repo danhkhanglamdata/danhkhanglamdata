@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/b370c08e-c9b1-4e0c-8296-4b3bbecc90b0" alt="Mô tả GIF">
+  <img src="https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/1ed134c3-61e3-440e-8346-536a6ec17510" alt="Mô tả GIF">
 </div>
 
 - 👋 Hi, I’m @danhkhanglamdata
@@ -16,3 +16,4 @@ danhkhanglamdata/danhkhanglamdata is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 ![giphy](https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/021f51b4-49b5-459b-b276-a557d6b714dd)
+
