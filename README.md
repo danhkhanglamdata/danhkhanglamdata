@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://github.com/danhkhanglamdata/danhkhanglamdata/assets/153256289/1ed134c3-61e3-440e-8346-536a6ec17510" alt="Mô tả GIF" height="400px">
-</div>
 # Hi, I'm Khang! 👋
 
 - 👀 I’m interested in ...
