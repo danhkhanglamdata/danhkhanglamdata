@@ -1,6 +1,6 @@
 # Hi, I'm Khang! 👋
 
-👀 I’m interested in Data Analysis and I love to play with code and figures to create amazing stories
+👀 I’m interested in Data Analysis and I love to play with data and figures to create amazing stories
 
 ### **Technical Skills**
 - Strong SQL: MySQL, PostgreSQL, Google BigQuery
